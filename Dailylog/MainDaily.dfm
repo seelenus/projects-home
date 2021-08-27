@@ -20,7 +20,7 @@ object FDaily: TFDaily
     Height = 447
     Align = alClient
     TabOrder = 0
-    Properties.ActivePage = cxTabSheet3
+    Properties.ActivePage = cxTabSheet1
     Properties.CustomButtons.Buttons = <>
     ClientRectBottom = 443
     ClientRectLeft = 4
@@ -29,6 +29,14 @@ object FDaily: TFDaily
     object cxTabSheet1: TcxTabSheet
       Caption = 'cxTabSheet1'
       ImageIndex = 0
+      object BitBtn1: TBitBtn
+        Left = 208
+        Top = 96
+        Width = 75
+        Height = 25
+        Caption = 'BitBtn1'
+        TabOrder = 0
+      end
     end
     object cxTabSheet2: TcxTabSheet
       Caption = 'cxTabSheet2'

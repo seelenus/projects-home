@@ -9,7 +9,7 @@ uses
   cxEdit, Vcl.Menus, cxTextEdit, cxCalendar, Vcl.StdCtrls, cxButtons, cxLabel,
   cxPC, Data.Bind.EngExt, Vcl.Bind.DBEngExt, System.Rtti,
   System.Bindings.Outputs, Vcl.Bind.Editors, Data.Bind.Components, Vcl.Mask,
-  Data.Bind.ObjectScope;
+  Data.Bind.ObjectScope, Vcl.Buttons;
 
 type
   TFDaily = class(TForm)
@@ -19,6 +19,7 @@ type
     cxTabSheet3: TcxTabSheet;
     MaskEdit1: TMaskEdit;
     BindingsList1: TBindingsList;
+    BitBtn1: TBitBtn;
   private
     { Private declarations }
   public
