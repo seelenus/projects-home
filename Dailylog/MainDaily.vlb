@@ -1,7 +1,4 @@
-﻿[cxButton1]
-Coordinates=10,10,64,51
-
-[cxTabSheet1]
+﻿[cxTabSheet1]
 Coordinates=10,124,77,33
 
 [cxTabSheet2]
@@ -13,20 +10,11 @@ Coordinates=110,78,92,33
 [cxTabSheet3]
 Coordinates=10,78,77,33
 
-[cxLabel2]
-Coordinates=169,10,58,51
-ExplicitSubNodes=Caption
-Visible=True
-
-[cxClock1]
-Coordinates=92,10,59,51
-ExplicitSubNodes=Time
-
 []
-Coordinates=167,149,72,33
+Coordinates=10,10,64,51
 Visible=True
 LayerNames=
-ExplicitSubNodes=Caption;Width
+ExplicitSubNodes=Caption
 
 [Module Settings]
 ModelLayerNames=

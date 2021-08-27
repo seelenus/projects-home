@@ -17,14 +17,8 @@ type
     cxTabSheet1: TcxTabSheet;
     cxTabSheet2: TcxTabSheet;
     cxTabSheet3: TcxTabSheet;
-    cxLabel2: TcxLabel;
-    cxButton1: TcxButton;
-    cxClock1: TcxClock;
     MaskEdit1: TMaskEdit;
     BindingsList1: TBindingsList;
-    LinkControlToPropertyCaption: TLinkControlToProperty;
-    cxLabel1: TcxLabel;
-    PrototypeBindSource1: TPrototypeBindSource;
   private
     { Private declarations }
   public

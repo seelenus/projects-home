@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.096,C:\Users\бвц\Documents\Delphi projects\Dailylog\MainDaily.pas=C:\Users\бвц\Documents\Delphi projects\Dailylog\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.415,C:\Users\бвц\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\бвц\Documents\Delphi projects\Dailylog\Project1.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.096,C:\Users\бвц\Documents\Delphi projects\Dailylog\MainDaily.dfm=C:\Users\бвц\Documents\Delphi projects\Dailylog\Unit1.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.192,C:\Users\бвц\Documents\Delphi projects\Dailylog\Project1.dproj=C:\Users\бвц\Documents\Delphi projects\Dailylog\DailyProject.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.301,C:\Users\бвц\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\бвц\Documents\Delphi projects\Dailylog\Unit1.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.845,C:\Users\бвц\Documents\Delphi projects\Dailylog\DailyProject.dproj=C:\Users\бвц\Documents\Delphi projects\Dailylog\DailyProject.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.096,C:\Users\бвц\Documents\Delphi projects\Dailylog\Unit1.dfm=C:\Users\бвц\Documents\Delphi projects\Dailylog\MainDaily.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.301,C:\Users\бвц\Documents\Delphi projects\Dailylog\Unit1.dfm=C:\Users\бвц\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
     <Transaction>1899.12.30 00:00:00.000.991,=C:\Users\бвц\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.831,=C:\Users\бвц\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.269,C:\Users\бвц\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\бвц\Documents\Delphi projects\Dailylog\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.415,C:\Users\бвц\Documents\Delphi projects\Dailylog\Project1.dproj=C:\Users\бвц\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.192,C:\Users\бвц\Documents\Delphi projects\Dailylog\DailyProject.dproj=C:\Users\бвц\Documents\Delphi projects\Dailylog\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.845,C:\Users\бвц\Documents\Delphi projects\Dailylog\DailyProject.dproj=C:\Users\бвц\Documents\Delphi projects\Dailylog\DailyProject.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.096,C:\Users\бвц\Documents\Delphi projects\Dailylog\Unit1.pas=C:\Users\бвц\Documents\Delphi projects\Dailylog\MainDaily.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.269,C:\Users\бвц\Documents\Delphi projects\Dailylog\Unit1.pas=C:\Users\бвц\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
   </Transactions>
 </BorlandProject>
