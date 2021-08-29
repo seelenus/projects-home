@@ -41,6 +41,10 @@ object FDaily: TFDaily
     object cxTabSheet2: TcxTabSheet
       Caption = 'cxTabSheet2'
       ImageIndex = 1
+      ExplicitLeft = 0
+      ExplicitTop = 0
+      ExplicitWidth = 0
+      ExplicitHeight = 0
     end
     object cxTabSheet3: TcxTabSheet
       Caption = 'cxTabSheet3'
@@ -51,8 +55,6 @@ object FDaily: TFDaily
       Font.Style = []
       ImageIndex = 2
       ParentFont = False
-      ExplicitLeft = 3
-      ExplicitTop = -48
       object MaskEdit1: TMaskEdit
         Left = 161
         Top = 87
