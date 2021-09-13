@@ -17,9 +17,6 @@ type
     cxTabSheet1: TcxTabSheet;
     cxTabSheet2: TcxTabSheet;
     cxTabSheet3: TcxTabSheet;
-    MaskEdit1: TMaskEdit;
-    BindingsList1: TBindingsList;
-    BitBtn1: TBitBtn;
   private
     { Private declarations }
   public

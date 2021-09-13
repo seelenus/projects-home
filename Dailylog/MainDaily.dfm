@@ -29,22 +29,10 @@ object FDaily: TFDaily
     object cxTabSheet1: TcxTabSheet
       Caption = 'cxTabSheet1'
       ImageIndex = 0
-      object BitBtn1: TBitBtn
-        Left = 208
-        Top = 96
-        Width = 75
-        Height = 25
-        Caption = 'BitBtn1'
-        TabOrder = 0
-      end
     end
     object cxTabSheet2: TcxTabSheet
       Caption = 'cxTabSheet2'
       ImageIndex = 1
-      ExplicitLeft = 0
-      ExplicitTop = 0
-      ExplicitWidth = 0
-      ExplicitHeight = 0
     end
     object cxTabSheet3: TcxTabSheet
       Caption = 'cxTabSheet3'
@@ -55,26 +43,6 @@ object FDaily: TFDaily
       Font.Style = []
       ImageIndex = 2
       ParentFont = False
-      object MaskEdit1: TMaskEdit
-        Left = 161
-        Top = 87
-        Width = 121
-        Height = 32
-        Font.Charset = DEFAULT_CHARSET
-        Font.Color = clWindowText
-        Font.Height = -20
-        Font.Name = 'Tahoma'
-        Font.Style = []
-        ParentFont = False
-        TabOrder = 0
-        Text = ''
-      end
     end
-  end
-  object BindingsList1: TBindingsList
-    Methods = <>
-    OutputConverters = <>
-    Left = 20
-    Top = 5
   end
 end
